@@ -37,6 +37,6 @@ public class RobotTemplate extends SimpleRobot {
      */
     public void test() {
         // ;kdfs
-        System.out.println("TEST!");
+        System.out.println("Showing ben github!");
     }
 }
