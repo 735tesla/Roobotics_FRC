@@ -26,7 +26,7 @@ public class RobotTemplate extends SimpleRobot {
     }
 
     /**
-     * This function is called twice each time the robot enters operator control.
+     * This function is called once each time the robot enters operator control.
      */
     public void operatorControl() {
 
