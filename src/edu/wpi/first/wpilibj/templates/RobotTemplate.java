@@ -8,6 +8,8 @@
 package edu.wpi.first.wpilibj.templates;
 
 
+//NOTE: Drive Train Using Talon PWMs
+
 import edu.wpi.first.wpilibj.SimpleRobot;
 
 /**
@@ -29,7 +31,7 @@ public class RobotTemplate extends SimpleRobot {
      * This function is called once each time the robot enters operator control.
      */
     public void operatorControl() {
-
+        
     }
     
     /**
